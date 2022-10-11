@@ -73,3 +73,5 @@ for (i in 1:length(corpus.files)) {
 	
 	# store results in file
 	cat("corpus file\tleft context\tnode\tright context", all.matches, sep = "\n", file = "conc_bnc_BABY_1.txt") 
+
+
