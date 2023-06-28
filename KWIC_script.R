@@ -5,8 +5,7 @@ rm(list=ls(all=TRUE))
 library(stringi)
 
 #library(stringi)
-#library(stringi)
-#library(stringi)
+
 
 
 # load the paths to all the corpus files
