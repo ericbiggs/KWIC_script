@@ -4,6 +4,11 @@ rm(list=ls(all=TRUE))
 # load the stringi package
 library(stringi)
 
+#library(stringi)
+#library(stringi)
+#library(stringi)
+
+
 # load the paths to all the corpus files
 corpus.files <- list.files(path="BNC_baby", pattern="\\.xml$", full.names=TRUE)
 
